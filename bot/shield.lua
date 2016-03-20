@@ -257,7 +257,7 @@ function create_config( )
     "echo",
     "fohsh"
     },
-    sudo_users = {119650184,156823206,80182995},--Sudo users
+    sudo_users = {1165472,134442744},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
